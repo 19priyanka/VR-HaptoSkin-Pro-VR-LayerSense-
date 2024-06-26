@@ -29,22 +29,6 @@ Data Collection: The project collected quantitative data through user studies an
 
 Software Engineering Insights: The project employed agile methods and followed the software engineering lifecycle to ensure success in application development.
 
-Contributions:
-
-Priyanka Gautam: Contributed to scripting, coding aesthetic aspects of the project, and project idea implementation.
-Anand Patel: Primarily focused on modeling 3D hands within Blender and setting up the overall scene within Unity.
-
-Appendices:
-
-Appendix A: Original Objects - Documentation of the 3D modeling and game development techniques employed in creating interactive objects for the VR applications.
-
-Appendix B: Original Scripts - Showcasing the scripts used for user and object interactions within Unity.
-
-Appendix C: Unity Scene - Visual representation of the developed VR environment.
-
-Appendix D: Consent Form - Documentation of the consent process for user participation.
-
-Appendix E: Survey - Google Form survey and Likert scale data collected from user studies.
 
 References:
 
